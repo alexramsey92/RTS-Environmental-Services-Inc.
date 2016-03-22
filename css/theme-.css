@@ -1,0 +1,60 @@
+body {
+    margin:0;
+    padding:0;
+}
+
+.ab-alert{
+  margin: 0 !important;
+  padding: 0;
+  color: #FF0000;
+}
+
+.navbar {
+margin-bottom:0 !important;
+}
+
+#navigationbar {
+    margin-left: 0px;
+    float:right;
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 1.3em;
+	margin-top:30px;
+}
+
+#larger {
+    font-size:1.3em;
+}
+
+.italic {
+    font-style:italic;
+}
+
+#phone-span {
+    display: inline-flex;
+    margin: 5px;
+}
+
+.float-right {
+    float: right;   
+}
+
+.float-left {
+    float: left;   
+}
+
+.small-pad {
+    padding: 20px;
+    
+}
+
+.big-pad {
+    padding: 30px;
+    
+}
+
+.testimonials {
+    margin-top: 25px;
+    font-weight: 700;
+    font-size: 1.1em;
+}
